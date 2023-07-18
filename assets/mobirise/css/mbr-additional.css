@@ -102,7 +102,7 @@ body {
   background-color: #2299aa !important;
 }
 .bg-success {
-  background-color: #40b0bf !important;
+  background-color: #002651 !important;
 }
 .bg-info {
   background-color: #47b5ed !important;
@@ -115,7 +115,7 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #2299aa !important;
+  background-color: #EAAA00 !important;
   border-color: #2299aa !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
@@ -181,8 +181,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #40b0bf !important;
-  border-color: #40b0bf !important;
+  background-color: #002651 !important;
+  border-color: #002651 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -355,8 +355,8 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background-color: transparent !important;
-  border-color: #40b0bf;
-  color: #40b0bf;
+  border-color: #002651;
+  color: #002651;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -370,8 +370,8 @@ body {
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #40b0bf !important;
-  border-color: #40b0bf !important;
+  background-color: #002651 !important;
+  border-color: #002651 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -458,13 +458,13 @@ body {
   border-color: #fafafa !important;
 }
 .text-primary {
-  color: #2299aa !important;
+  color: #EAAA00 !important;
 }
 .text-secondary {
   color: #edb5bf !important;
 }
 .text-success {
-  color: #40b0bf !important;
+  color: #002651 !important;
 }
 .text-info {
   color: #47b5ed !important;
@@ -571,7 +571,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #2299aa;
+  color: #EAAA00;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -609,7 +609,7 @@ a:hover {
 .form-control:hover,
 .form-control:focus {
   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.07) 0px 1px 3px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
-  border-color: #2299aa !important;
+  border-color: #EAAA00 !important;
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Bellota Text', display;
@@ -621,7 +621,7 @@ a:hover {
   font-size: 1.375rem;
 }
 blockquote {
-  border-color: #2299aa;
+  border-color: #EAAA00;
 }
 /* Forms */
 .mbr-form .input-group-btn a.btn {
@@ -639,14 +639,14 @@ blockquote {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #2299aa;
+  background-color: #EAAA00;
   color: #ffffff;
 }
 .jq-number__spin {
   transition: 0.25s ease;
 }
 .jq-number__spin:hover {
-  border-color: #2299aa;
+  border-color: #EAAA00;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:after,
@@ -658,14 +658,14 @@ blockquote {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #2299aa;
-  border-bottom-color: #2299aa;
+  border-top-color: #EAAA00;
+  border-bottom-color: #EAAA00;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
   color: #ffffff !important;
-  background-color: #2299aa !important;
+  background-color: #EAAA00 !important;
   box-shadow: none !important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -740,7 +740,7 @@ a {
 }
 .cid-sFGMsvHDIa .dropdown-item:hover,
 .cid-sFGMsvHDIa .dropdown-item:focus {
-  background: #2299aa !important;
+  background: #EAAA00 !important;
   color: white !important;
 }
 .cid-sFGMsvHDIa .dropdown-item:first-child {
@@ -2093,7 +2093,7 @@ a {
 .cid-tgwMlMzYAa .mbr-iconfont {
   font-size: 2rem;
   padding-right: 1.5rem;
-  color: #2299aa;
+  color: #EAAA00;
 }
 .cid-sFGSOnwtIp {
   padding-top: 30px;
@@ -2140,7 +2140,7 @@ a {
 }
 .cid-tgxjHszDVH .dropdown-item:hover,
 .cid-tgxjHszDVH .dropdown-item:focus {
-  background: #2299aa !important;
+  background: #EAAA00 !important;
   color: white !important;
 }
 .cid-tgxjHszDVH .dropdown-item:first-child {
@@ -2657,7 +2657,7 @@ a {
 .cid-tgJvpy76tn .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #40b0bf;
+  color: #002651;
   margin-bottom: 2rem;
 }
 .cid-tgJvpy76tn .card-wrapper {
@@ -3249,7 +3249,7 @@ a {
 .cid-tgJsdo4KtI .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #40b0bf;
+  color: #002651;
   margin-bottom: 2rem;
 }
 .cid-tgJsdo4KtI .card-wrapper {
