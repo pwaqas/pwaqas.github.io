@@ -458,10 +458,10 @@ body {
   border-color: #fafafa !important;
 }
 .text-primary {
-  color: #EAAA00 !important;
+  color: #0d6efd !important !important;
 }
 .text-secondary {
-  color: #edb5bf !important;
+  color: #0d6efd !important !important;
 }
 .text-success {
   color: #002651 !important;
@@ -571,7 +571,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #EAAA00;
+  color: #0d6efd;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1094,6 +1094,7 @@ a {
   }
   .cid-trWVW39X9z .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
+
   }
 }
 @media (max-width: 767px) {
@@ -3802,6 +3803,13 @@ a {
   .cid-trWWhIo9CB .content-wrapper .text-wrapper {
     padding-right: 2rem;
   }
+}
+@media (max-width: 767px) {
+.cid-trWWhIo9CB .image-wrapper{
+  max-width: 70%;
+  padding-left: 30%;
+  padding-top: 10%;
+}
 }
 .cid-trWWhIo9CB .image-wrapper img {
   width: 100%;
